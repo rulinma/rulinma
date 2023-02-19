@@ -5,8 +5,8 @@
 - 📫 在线产品：[AI记单词](https://www.xianglesong.com) https://www.xianglesong.com
 - 💞️ 知识星球：[程序员学习和实战指南-知识星球会员入口](https://wx.zsxq.com/dweb2/index/group/48884842428418)
 - ✨ 软件设计师
-- ✨ 信息系统项目管理师
 - ✨ PMI认证PMP
+- ✨ 信息系统项目管理师
 - ✨ Oracle认证Java程序员
 - ✨ 大学英语6级证书（CET-6）
 - ✨ 桂林电子科技大学计算机硕士研究生
